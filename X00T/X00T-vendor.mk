@@ -1066,7 +1066,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib/vendor.qti.imsrtpservice@2.1-service-Impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.imsrtpservice@2.1-service-Impl.so \
     vendor/asus/X00T/proprietary/vendor/lib/vendor.qti.imsrtpservice@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.imsrtpservice@2.1.so \
     vendor/asus/X00T/proprietary/vendor/lib64/com.qualcomm.qti.ant@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.ant@1.0.so \
-    vendor/asus/X00T/proprietary/vendor/lib64/com.qualcomm.qti.bluetooth_audio@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.bluetooth_audio@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib64/com.qualcomm.qti.dpm.api@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib64/com.qualcomm.qti.imscmservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.imscmservice@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib64/com.qualcomm.qti.imscmservice@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.imscmservice@2.0.so \
@@ -1089,7 +1088,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib64/hw/cdfinger.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/cdfinger.default.so \
     vendor/asus/X00T/proprietary/vendor/lib64/hw/cdfinger.fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/cdfinger.fingerprint.default.so \
     vendor/asus/X00T/proprietary/vendor/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so \
-    vendor/asus/X00T/proprietary/vendor/lib64/hw/com.qualcomm.qti.bluetooth_audio@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qualcomm.qti.bluetooth_audio@1.0-impl.so \
     vendor/asus/X00T/proprietary/vendor/lib64/hw/gatekeeper.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.sdm660.so \
     vendor/asus/X00T/proprietary/vendor/lib64/hw/keystore.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/keystore.sdm660.so \
     vendor/asus/X00T/proprietary/vendor/lib64/hw/sensors.sdm660_64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.sdm660_64.so \
@@ -1279,6 +1277,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.gnss@3.0-service.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.gnss@3.0-service.so \
     vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.gnss@3.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.gnss@3.0.so \
     vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.hardware.alarm@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.alarm@1.0.so \
+    vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so \
+    vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.hardware.btconfigstore@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.btconfigstore@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.hardware.data.cne.internal.api@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.data.cne.internal.api@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.hardware.data.cne.internal.constants@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.data.cne.internal.constants@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib64/vendor.qti.hardware.data.cne.internal.server@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.data.cne.internal.server@1.0.so \
